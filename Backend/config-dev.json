@@ -1,0 +1,10 @@
+{
+    "isProduction": false,
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "name": "VacationsDB"
+    },
+    "jwtKey": "GoodVacation"
+}
